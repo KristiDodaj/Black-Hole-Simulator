@@ -2,8 +2,6 @@
 
 ![Demo](content/demo.gif)
 
-> *Note: To see the demo, please record a gif of the running application, name it `demo.gif`, and place it in the `content` directory.*
-
 A real-time General Relativistic ray marcher written in C++ and OpenGL. This simulation visualizes the gravitational lensing and optical distortion caused by a Schwarzschild black hole, featuring a relativistic accretion disk, an orbiting body, and a spacetime grid.
 
 ## Features
